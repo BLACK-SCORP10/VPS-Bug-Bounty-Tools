@@ -10,8 +10,7 @@ cd /tmp && git clone https://github.com/drak3hft7/VPS-Bug-Bounty-Tools
 cd VPS-Bug-Bounty-Tools
 sudo ./Tools-BugBounty-installer.sh
 ```
-## Example during installation:
-![Main Logo](images/tool.PNG 'Example')
+
 
 # List of tools inserted:
 ## Network scanner:
